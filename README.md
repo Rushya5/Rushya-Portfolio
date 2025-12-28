@@ -2,7 +2,7 @@ M RUSHYA SHRUNGAN
 # Personal Portfolio
 
 My personal portfolio which features the most recent projects I worked on as well as my resume and technical skills. \
-The website is live **[here.]()**
+The website is live 
 
 ## Sections 📚
 ✔️ About me \
